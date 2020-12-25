@@ -1,6 +1,6 @@
-import React from 'react'
 import { navigate } from 'gatsby-link'
 import Layout from '../../components/Layout'
+import { Component } from 'react';
 
 function encode(data) {
   return Object.keys(data)
@@ -8,7 +8,7 @@ function encode(data) {
     .join('&')
 }
 
-export default class Index extends React.Component {
+export default class Index extends Component {
   constructor(props) {
     super(props)
     this.state = { isValidated: false }
