@@ -20,30 +20,7 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="643a7442-b295-47db-a736-0e53f0804122" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/.babelrc.js" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/gatsby-config.js" beforeDir="false" afterPath="$PROJECT_DIR$/gatsby-config.js" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/package-lock.json" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/package.json" beforeDir="false" afterPath="$PROJECT_DIR$/package.json" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/cms/cms.js" beforeDir="false" afterPath="$PROJECT_DIR$/src/cms/cms.ts" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/components/BlogRoll.js" beforeDir="false" afterPath="$PROJECT_DIR$/src/components/BlogRoll.jsx" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/components/Content.js" beforeDir="false" afterPath="$PROJECT_DIR$/src/components/Content.jsx" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/components/Features.js" beforeDir="false" afterPath="$PROJECT_DIR$/src/components/Features.jsx" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/components/Footer.js" beforeDir="false" afterPath="$PROJECT_DIR$/src/components/Footer.jsx" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/components/Layout.js" beforeDir="false" afterPath="$PROJECT_DIR$/src/components/Layout.jsx" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/components/Navbar.js" beforeDir="false" afterPath="$PROJECT_DIR$/src/components/Navbar.jsx" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/components/PreviewCompatibleImage.js" beforeDir="false" afterPath="$PROJECT_DIR$/src/components/PreviewCompatibleImage.jsx" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/components/Pricing.js" beforeDir="false" afterPath="$PROJECT_DIR$/src/components/Pricing.jsx" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/components/SiteMetadata.js" beforeDir="false" afterPath="$PROJECT_DIR$/src/components/SiteMetadata.jsx" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/components/Testimonials.js" beforeDir="false" afterPath="$PROJECT_DIR$/src/components/Testimonials.tsx" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/pages/404.js" beforeDir="false" afterPath="$PROJECT_DIR$/src/pages/404.tsx" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/pages/blog/index.js" beforeDir="false" afterPath="$PROJECT_DIR$/src/pages/blog/index.tsx" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/pages/contact/examples.js" beforeDir="false" afterPath="$PROJECT_DIR$/src/pages/contact/examples.tsx" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/pages/contact/file-upload.js" beforeDir="false" afterPath="$PROJECT_DIR$/src/pages/contact/file-upload.tsx" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/pages/contact/index.js" beforeDir="false" afterPath="$PROJECT_DIR$/src/pages/contact/index.tsx" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/pages/contact/thanks.js" beforeDir="false" afterPath="$PROJECT_DIR$/src/pages/contact/thanks.tsx" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/pages/tags/index.js" beforeDir="false" afterPath="$PROJECT_DIR$/src/pages/tags/index.tsx" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/yarn.lock" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.gitignore" beforeDir="false" afterPath="$PROJECT_DIR$/.gitignore" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -95,7 +72,7 @@
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
       <updated>1608840142489</updated>
-      <workItem from="1608840143985" duration="13689000" />
+      <workItem from="1608840143985" duration="13970000" />
     </task>
     <servers />
   </component>
