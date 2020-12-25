@@ -20,7 +20,20 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="643a7442-b295-47db-a736-0e53f0804122" name="Default Changelist" comment="">
-      <change beforePath="$PROJECT_DIR$/.gitignore" beforeDir="false" afterPath="$PROJECT_DIR$/.gitignore" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/tsconfig.json" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.babelrc.js" beforeDir="false" afterPath="$PROJECT_DIR$/.babelrc.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/package-lock.json" beforeDir="false" afterPath="$PROJECT_DIR$/package-lock.json" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/package.json" beforeDir="false" afterPath="$PROJECT_DIR$/package.json" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/components/BlogRoll.jsx" beforeDir="false" afterPath="$PROJECT_DIR$/src/components/BlogRoll.tsx" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/components/Content.jsx" beforeDir="false" afterPath="$PROJECT_DIR$/src/components/Content.tsx" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/components/Features.jsx" beforeDir="false" afterPath="$PROJECT_DIR$/src/components/Features.tsx" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/components/Footer.jsx" beforeDir="false" afterPath="$PROJECT_DIR$/src/components/Footer.tsx" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/components/Layout.jsx" beforeDir="false" afterPath="$PROJECT_DIR$/src/components/Layout.tsx" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/components/Navbar.jsx" beforeDir="false" afterPath="$PROJECT_DIR$/src/components/Navbar.tsx" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/components/PreviewCompatibleImage.jsx" beforeDir="false" afterPath="$PROJECT_DIR$/src/components/PreviewCompatibleImage.tsx" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/components/Pricing.jsx" beforeDir="false" afterPath="$PROJECT_DIR$/src/components/Pricing.tsx" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/components/SiteMetadata.jsx" beforeDir="false" afterPath="$PROJECT_DIR$/src/components/SiteMetadata.tsx" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -60,8 +73,22 @@
     <property name="prettierjs.PrettierConfiguration.Package" value="$PROJECT_DIR$/node_modules/prettier" />
     <property name="settings.editor.selected.configurable" value="watcher.settings" />
     <property name="show.migrate.to.gradle.popup" value="false" />
-    <property name="ts.external.directory.path" value="$APPLICATION_HOME_DIR$/plugins/JavaScriptLanguage/jsLanguageServicesImpl/external" />
+    <property name="ts.external.directory.path" value="$PROJECT_DIR$/node_modules/typescript/lib" />
   </component>
+  <component name="RunManager">
+    <configuration default="true" type="ArquillianJUnit" factoryName="" nameIsGenerated="true">
+      <option name="arquillianRunConfiguration">
+        <value>
+          <option name="containerStateName" value="" />
+        </value>
+      </option>
+      <option name="TEST_OBJECT" value="class" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+  </component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
   <component name="SvnConfiguration">
     <configuration />
   </component>
@@ -72,12 +99,13 @@
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
       <updated>1608840142489</updated>
-      <workItem from="1608840143985" duration="13970000" />
+      <workItem from="1608840143985" duration="15908000" />
+      <workItem from="1608917777726" duration="395000" />
     </task>
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
-    <option name="version" value="2" />
+    <option name="version" value="3" />
   </component>
   <component name="Vcs.Log.Tabs.Properties">
     <option name="TAB_STATES">
@@ -89,6 +117,7 @@
         </entry>
       </map>
     </option>
+    <option name="oldMeFiltersMigrated" value="true" />
   </component>
   <component name="WindowStateProjectService">
     <state x="560" y="248" key="#Plugins" timestamp="1608898400435">
@@ -99,22 +128,22 @@
       <screen x="0" y="0" width="1920" height="1200" />
     </state>
     <state x="614" y="385" key="EditFileWatcherDialog/0.0.1920.1200@0.0.1920.1200" timestamp="1608895589297" />
-    <state width="1878" height="344" key="GridCell.Tab.0.bottom" timestamp="1608844244637">
+    <state width="1878" height="344" key="GridCell.Tab.0.bottom" timestamp="1608916827889">
       <screen x="0" y="0" width="1920" height="1200" />
     </state>
-    <state width="1878" height="344" key="GridCell.Tab.0.bottom/0.0.1920.1200@0.0.1920.1200" timestamp="1608844244637" />
-    <state width="1878" height="344" key="GridCell.Tab.0.center" timestamp="1608844244636">
+    <state width="1878" height="344" key="GridCell.Tab.0.bottom/0.0.1920.1200@0.0.1920.1200" timestamp="1608916827889" />
+    <state width="1878" height="344" key="GridCell.Tab.0.center" timestamp="1608916827888">
       <screen x="0" y="0" width="1920" height="1200" />
     </state>
-    <state width="1878" height="344" key="GridCell.Tab.0.center/0.0.1920.1200@0.0.1920.1200" timestamp="1608844244636" />
-    <state width="1878" height="344" key="GridCell.Tab.0.left" timestamp="1608844244635">
+    <state width="1878" height="344" key="GridCell.Tab.0.center/0.0.1920.1200@0.0.1920.1200" timestamp="1608916827888" />
+    <state width="1878" height="344" key="GridCell.Tab.0.left" timestamp="1608916827887">
       <screen x="0" y="0" width="1920" height="1200" />
     </state>
-    <state width="1878" height="344" key="GridCell.Tab.0.left/0.0.1920.1200@0.0.1920.1200" timestamp="1608844244635" />
-    <state width="1878" height="344" key="GridCell.Tab.0.right" timestamp="1608844244636">
+    <state width="1878" height="344" key="GridCell.Tab.0.left/0.0.1920.1200@0.0.1920.1200" timestamp="1608916827887" />
+    <state width="1878" height="344" key="GridCell.Tab.0.right" timestamp="1608916827888">
       <screen x="0" y="0" width="1920" height="1200" />
     </state>
-    <state width="1878" height="344" key="GridCell.Tab.0.right/0.0.1920.1200@0.0.1920.1200" timestamp="1608844244636" />
+    <state width="1878" height="344" key="GridCell.Tab.0.right/0.0.1920.1200@0.0.1920.1200" timestamp="1608916827888" />
     <state x="739" y="309" key="RollbackChangesDialog" timestamp="1608898416061">
       <screen x="0" y="0" width="1920" height="1200" />
     </state>
@@ -127,10 +156,10 @@
       <screen x="0" y="0" width="1920" height="1200" />
     </state>
     <state x="655" y="355" width="1265" height="490" key="find.popup/0.0.1920.1200@0.0.1920.1200" timestamp="1608914213675" />
-    <state x="625" y="271" width="670" height="676" key="search.everywhere.popup" timestamp="1608914403029">
+    <state x="625" y="271" width="670" height="676" key="search.everywhere.popup" timestamp="1608916298409">
       <screen x="0" y="0" width="1920" height="1200" />
     </state>
-    <state x="625" y="271" width="670" height="676" key="search.everywhere.popup/0.0.1920.1200@0.0.1920.1200" timestamp="1608914403029" />
+    <state x="625" y="271" width="670" height="676" key="search.everywhere.popup/0.0.1920.1200@0.0.1920.1200" timestamp="1608916298409" />
     <state x="625" y="271" width="670" height="676" key="search.everywhere.popup/0.23.1870.1177@0.23.1870.1177" timestamp="1608906398459" />
   </component>
 </project>

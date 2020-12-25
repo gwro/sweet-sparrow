@@ -3,6 +3,8 @@ module.exports = {
     ["@babel/plugin-proposal-decorators", { "legacy": true }]
   ],
   "presets": [
+    "@babel/preset-env",
+    "@babel/preset-typescript",
     [
       "babel-preset-gatsby",
       {
