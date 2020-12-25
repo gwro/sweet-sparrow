@@ -1,0 +1,137 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="BranchesTreeState">
+    <expand>
+      <path>
+        <item name="ROOT" type="e8cecc67:BranchNodeDescriptor" />
+        <item name="LOCAL_ROOT" type="e8cecc67:BranchNodeDescriptor" />
+      </path>
+      <path>
+        <item name="ROOT" type="e8cecc67:BranchNodeDescriptor" />
+        <item name="REMOTE_ROOT" type="e8cecc67:BranchNodeDescriptor" />
+      </path>
+      <path>
+        <item name="ROOT" type="e8cecc67:BranchNodeDescriptor" />
+        <item name="REMOTE_ROOT" type="e8cecc67:BranchNodeDescriptor" />
+        <item name="GROUP_NODE:origin" type="e8cecc67:BranchNodeDescriptor" />
+      </path>
+    </expand>
+    <select />
+  </component>
+  <component name="ChangeListManager">
+    <list default="true" id="643a7442-b295-47db-a736-0e53f0804122" name="Default Changelist" comment="">
+      <change beforePath="$PROJECT_DIR$/gatsby-config.js" beforeDir="false" afterPath="$PROJECT_DIR$/gatsby-config.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/package.json" beforeDir="false" afterPath="$PROJECT_DIR$/package.json" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/cms/cms.js" beforeDir="false" afterPath="$PROJECT_DIR$/src/cms/cms.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/yarn.lock" beforeDir="false" />
+    </list>
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="ComposerSettings">
+    <execution />
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="GitToolBoxStore">
+    <option name="projectConfigVersion" value="2" />
+  </component>
+  <component name="JiraServerManager">
+    <selected>-1</selected>
+    <servers />
+  </component>
+  <component name="ProjectId" id="1m7MOJcOf854Uol4pCRYVVhRCCd" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="RunOnceActivity.OpenProjectViewOnStart" value="true" />
+    <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
+    <property name="TERMINAL_CUSTOM_COMMANDS_GOT_IT" value="true" />
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="android.sdk.path" value="$USER_HOME$/Library/Android/sdk" />
+    <property name="aspect.path.notification.shown" value="true" />
+    <property name="dart.analysis.tool.window.visible" value="false" />
+    <property name="go.import.settings.migrated" value="true" />
+    <property name="nodejs_interpreter_path.stuck_in_default_project" value="undefined stuck path" />
+    <property name="nodejs_npm_path_reset_for_default_project" value="true" />
+    <property name="nodejs_package_manager_path" value="npm" />
+    <property name="prettierjs.PrettierConfiguration.Package" value="$PROJECT_DIR$/node_modules/prettier" />
+    <property name="settings.editor.selected.configurable" value="watcher.settings" />
+    <property name="show.migrate.to.gradle.popup" value="false" />
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="643a7442-b295-47db-a736-0e53f0804122" name="Default Changelist" comment="" />
+      <created>1608840142489</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1608840142489</updated>
+      <workItem from="1608840143985" duration="8054000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="2" />
+  </component>
+  <component name="Vcs.Log.Tabs.Properties">
+    <option name="TAB_STATES">
+      <map>
+        <entry key="MAIN">
+          <value>
+            <State />
+          </value>
+        </entry>
+      </map>
+    </option>
+  </component>
+  <component name="WindowStateProjectService">
+    <state x="560" y="248" key="#Plugins" timestamp="1608898400435">
+      <screen x="0" y="0" width="1920" height="1200" />
+    </state>
+    <state x="560" y="248" key="#Plugins/0.0.1920.1200@0.0.1920.1200" timestamp="1608898400435" />
+    <state x="614" y="385" key="EditFileWatcherDialog" timestamp="1608895589297">
+      <screen x="0" y="0" width="1920" height="1200" />
+    </state>
+    <state x="614" y="385" key="EditFileWatcherDialog/0.0.1920.1200@0.0.1920.1200" timestamp="1608895589297" />
+    <state width="1878" height="344" key="GridCell.Tab.0.bottom" timestamp="1608844244637">
+      <screen x="0" y="0" width="1920" height="1200" />
+    </state>
+    <state width="1878" height="344" key="GridCell.Tab.0.bottom/0.0.1920.1200@0.0.1920.1200" timestamp="1608844244637" />
+    <state width="1878" height="344" key="GridCell.Tab.0.center" timestamp="1608844244636">
+      <screen x="0" y="0" width="1920" height="1200" />
+    </state>
+    <state width="1878" height="344" key="GridCell.Tab.0.center/0.0.1920.1200@0.0.1920.1200" timestamp="1608844244636" />
+    <state width="1878" height="344" key="GridCell.Tab.0.left" timestamp="1608844244635">
+      <screen x="0" y="0" width="1920" height="1200" />
+    </state>
+    <state width="1878" height="344" key="GridCell.Tab.0.left/0.0.1920.1200@0.0.1920.1200" timestamp="1608844244635" />
+    <state width="1878" height="344" key="GridCell.Tab.0.right" timestamp="1608844244636">
+      <screen x="0" y="0" width="1920" height="1200" />
+    </state>
+    <state width="1878" height="344" key="GridCell.Tab.0.right/0.0.1920.1200@0.0.1920.1200" timestamp="1608844244636" />
+    <state x="739" y="309" key="RollbackChangesDialog" timestamp="1608898416061">
+      <screen x="0" y="0" width="1920" height="1200" />
+    </state>
+    <state x="739" y="309" key="RollbackChangesDialog/0.0.1920.1200@0.0.1920.1200" timestamp="1608898416061" />
+    <state x="469" y="239" key="SettingsEditor" timestamp="1608895831389">
+      <screen x="0" y="0" width="1920" height="1200" />
+    </state>
+    <state x="469" y="239" key="SettingsEditor/0.0.1920.1200@0.0.1920.1200" timestamp="1608895831389" />
+    <state x="661" y="355" width="1243" height="490" key="find.popup" timestamp="1608898334272">
+      <screen x="0" y="0" width="1920" height="1200" />
+    </state>
+    <state x="661" y="355" width="1243" height="490" key="find.popup/0.0.1920.1200@0.0.1920.1200" timestamp="1608898334272" />
+    <state x="625" y="271" width="670" height="676" key="search.everywhere.popup" timestamp="1608898395007">
+      <screen x="0" y="0" width="1920" height="1200" />
+    </state>
+    <state x="625" y="271" width="670" height="676" key="search.everywhere.popup/0.0.1920.1200@0.0.1920.1200" timestamp="1608898395007" />
+  </component>
+</project>
